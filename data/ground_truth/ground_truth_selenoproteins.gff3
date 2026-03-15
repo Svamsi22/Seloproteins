@@ -1,0 +1,1673 @@
+##gff-version 3
+##sequence-region   22 1 50818468
+#!genome-build Genome Reference Consortium GRCh38.p14
+#!genome-version GRCh38
+#!genome-date 2013-12
+#!genome-build-accession GCA_000001405.29
+#!genebuild-last-updated 2023-07
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+###
+## Filtered by extract_ground_truth.py
+## Contains selenoprotein genes only
+22	ensembl_havana	gene	19875517	19941820	.	-	.	ID=gene:ENSG00000184470;Name=TXNRD2;biotype=protein_coding;description=thioredoxin reductase 2 [Source:HGNC Symbol%3BAcc:HGNC:18155];gene_id=ENSG00000184470;logic_name=ensembl_havana_gene_homo_sapiens;version=21
+22	ensembl_havana	mRNA	19875517	19932553	.	-	.	ID=transcript:ENST00000400518;Parent=gene:ENSG00000184470;Name=TXNRD2-202;biotype=protein_coding;ccdsid=CCDS86999.1;tag=basic;transcript_id=ENST00000400518;transcript_support_level=1;version=5
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	ensembl_havana	CDS	19932357	19932369	.	-	0	ID=CDS:ENSP00000383362;Parent=transcript:ENST00000400518;protein_id=ENSP00000383362
+22	havana	lnc_RNA	19875518	19916366	.	-	.	ID=transcript:ENST00000494454;Parent=gene:ENSG00000184470;Name=TXNRD2-215;biotype=retained_intron;transcript_id=ENST00000494454;transcript_support_level=1;version=5
+22	havana	mRNA	19875518	19938179	.	-	.	ID=transcript:ENST00000542719;Parent=gene:ENSG00000184470;Name=TXNRD2-218;biotype=protein_coding;ccdsid=CCDS86998.1;tag=basic;transcript_id=ENST00000542719;transcript_support_level=1;version=6
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	CDS	19918860	19918945	.	-	0	ID=CDS:ENSP00000485128;Parent=transcript:ENST00000542719;protein_id=ENSP00000485128
+22	havana	mRNA	19875519	19941807	.	-	.	ID=transcript:ENST00000474308;Parent=gene:ENSG00000184470;Name=TXNRD2-209;biotype=nonsense_mediated_decay;transcript_id=ENST00000474308;transcript_support_level=2;version=5
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000485665;Parent=transcript:ENST00000474308;protein_id=ENSP00000485665
+22	havana	mRNA	19875522	19881369	.	-	.	ID=transcript:ENST00000462330;Parent=gene:ENSG00000184470;Name=TXNRD2-206;biotype=protein_coding;tag=basic;transcript_id=ENST00000462330;transcript_support_level=3;version=5
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	CDS	19881081	19881089	.	-	0	ID=CDS:ENSP00000485603;Parent=transcript:ENST00000462330;protein_id=ENSP00000485603
+22	havana	lnc_RNA	19875522	19884504	.	-	.	ID=transcript:ENST00000487165;Parent=gene:ENSG00000184470;Name=TXNRD2-213;biotype=retained_intron;transcript_id=ENST00000487165;transcript_support_level=1;version=5
+22	havana	mRNA	19875522	19898041	.	-	.	ID=transcript:ENST00000634537;Parent=gene:ENSG00000184470;Name=TXNRD2-220;biotype=non_stop_decay;transcript_id=ENST00000634537;transcript_support_level=5;version=1
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	havana	CDS	19898039	19898041	.	-	0	ID=CDS:ENSP00000489208;Parent=transcript:ENST00000634537;protein_id=ENSP00000489208
+22	ensembl_havana	mRNA	19875522	19941803	.	-	.	ID=transcript:ENST00000400519;Parent=gene:ENSG00000184470;Name=TXNRD2-203;biotype=protein_coding;ccdsid=CCDS87001.1;tag=basic;transcript_id=ENST00000400519;transcript_support_level=1;version=6
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383363;Parent=transcript:ENST00000400519;protein_id=ENSP00000383363
+22	ensembl_havana	mRNA	19875522	19941818	.	-	.	ID=transcript:ENST00000400521;Parent=gene:ENSG00000184470;Name=TXNRD2-204;biotype=protein_coding;ccdsid=CCDS42981.1;tag=basic,Ensembl_canonical,MANE_Select;transcript_id=ENST00000400521;transcript_support_level=1 (assigned to previous version 6);version=7
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383365;Parent=transcript:ENST00000400521;protein_id=ENSP00000383365
+22	havana	mRNA	19875522	19941820	.	-	.	ID=transcript:ENST00000400525;Parent=gene:ENSG00000184470;Name=TXNRD2-205;biotype=protein_coding;tag=basic;transcript_id=ENST00000400525;transcript_support_level=5;version=6
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000383369;Parent=transcript:ENST00000400525;protein_id=ENSP00000383369
+22	havana	lnc_RNA	19875524	19881347	.	-	.	ID=transcript:ENST00000495655;Parent=gene:ENSG00000184470;Name=TXNRD2-216;biotype=retained_intron;transcript_id=ENST00000495655;transcript_support_level=2;version=2
+22	havana	mRNA	19875641	19881164	.	-	.	ID=transcript:ENST00000485358;Parent=gene:ENSG00000184470;Name=TXNRD2-212;biotype=protein_coding;tag=basic;transcript_id=ENST00000485358;transcript_support_level=2;version=5
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	CDS	19881036	19881089	.	-	0	ID=CDS:ENSP00000485499;Parent=transcript:ENST00000485358;protein_id=ENSP00000485499
+22	havana	mRNA	19875692	19881154	.	-	.	ID=transcript:ENST00000462843;Parent=gene:ENSG00000184470;Name=TXNRD2-207;biotype=non_stop_decay;transcript_id=ENST00000462843;transcript_support_level=3;version=2
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	CDS	19880856	19880891	.	-	0	ID=CDS:ENSP00000485466;Parent=transcript:ENST00000462843;protein_id=ENSP00000485466
+22	havana	lnc_RNA	19875761	19883567	.	-	.	ID=transcript:ENST00000634471;Parent=gene:ENSG00000184470;Name=TXNRD2-219;biotype=retained_intron;transcript_id=ENST00000634471;transcript_support_level=3;version=1
+22	havana	transcript	19891438	19918177	.	-	.	ID=transcript:ENST00000635155;Parent=gene:ENSG00000184470;Name=TXNRD2-221;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000635155;transcript_support_level=5;version=1
+22	ensembl_havana	mRNA	19893902	19933526	.	-	.	ID=transcript:ENST00000491939;Parent=gene:ENSG00000184470;Name=TXNRD2-214;biotype=protein_coding;ccdsid=CCDS87000.1;tag=basic;transcript_id=ENST00000491939;transcript_support_level=1;version=6
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	CDS	19933434	19933440	.	-	0	ID=CDS:ENSP00000485543;Parent=transcript:ENST00000491939;protein_id=ENSP00000485543
+22	ensembl_havana	mRNA	19894258	19941804	.	-	.	ID=transcript:ENST00000334363;Parent=gene:ENSG00000184470;Name=TXNRD2-201;biotype=protein_coding;ccdsid=CCDS63402.1;tag=basic;transcript_id=ENST00000334363;transcript_support_level=1;version=14
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	ensembl_havana	CDS	19941701	19941803	.	-	0	ID=CDS:ENSP00000334451;Parent=transcript:ENST00000334363;protein_id=ENSP00000334451
+22	havana	mRNA	19895016	19915789	.	-	.	ID=transcript:ENST00000475995;Parent=gene:ENSG00000184470;Name=TXNRD2-210;biotype=protein_coding;transcript_id=ENST00000475995;transcript_support_level=5;version=3
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	CDS	19915765	19915789	.	-	1	ID=CDS:ENSP00000485290;Parent=transcript:ENST00000475995;protein_id=ENSP00000485290
+22	havana	transcript	19910935	19918221	.	-	.	ID=transcript:ENST00000484672;Parent=gene:ENSG00000184470;Name=TXNRD2-211;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000484672;transcript_support_level=5;version=5
+22	havana	lnc_RNA	19911258	19915837	.	-	.	ID=transcript:ENST00000471835;Parent=gene:ENSG00000184470;Name=TXNRD2-208;biotype=retained_intron;transcript_id=ENST00000471835;transcript_support_level=2;version=1
+22	havana	lnc_RNA	19914900	19941808	.	-	.	ID=transcript:ENST00000496729;Parent=gene:ENSG00000184470;Name=TXNRD2-217;biotype=retained_intron;transcript_id=ENST00000496729;transcript_support_level=4;version=2
+22	ensembl_havana	gene	31104772	31120069	.	-	.	ID=gene:ENSG00000198832;Name=SELENOM;biotype=protein_coding;description=selenoprotein M [Source:HGNC Symbol%3BAcc:HGNC:30397];gene_id=ENSG00000198832;logic_name=ensembl_havana_gene_homo_sapiens;version=11
+22	havana	mRNA	31104772	31120069	.	-	.	ID=transcript:ENST00000402395;Parent=gene:ENSG00000198832;Name=SELENOM-202;biotype=protein_coding;ccdsid=CCDS43003.1;tag=basic;transcript_id=ENST00000402395;transcript_support_level=1;version=5
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000384564;Parent=transcript:ENST00000402395;protein_id=ENSP00000384564
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000384564;Parent=transcript:ENST00000402395;protein_id=ENSP00000384564
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000384564;Parent=transcript:ENST00000402395;protein_id=ENSP00000384564
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000384564;Parent=transcript:ENST00000402395;protein_id=ENSP00000384564
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000384564;Parent=transcript:ENST00000402395;protein_id=ENSP00000384564
+22	havana	lnc_RNA	31104777	31107533	.	-	.	ID=transcript:ENST00000490967;Parent=gene:ENSG00000198832;Name=SELENOM-207;biotype=retained_intron;transcript_id=ENST00000490967;transcript_support_level=1;version=5
+22	havana	mRNA	31104777	31107568	.	-	.	ID=transcript:ENST00000400299;Parent=gene:ENSG00000198832;Name=SELENOM-201;biotype=protein_coding;ccdsid=CCDS43003.1;tag=basic,Ensembl_canonical,MANE_Select;transcript_id=ENST00000400299;transcript_support_level=1;version=6
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000383155;Parent=transcript:ENST00000400299;protein_id=ENSP00000383155
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000383155;Parent=transcript:ENST00000400299;protein_id=ENSP00000383155
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000383155;Parent=transcript:ENST00000400299;protein_id=ENSP00000383155
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000383155;Parent=transcript:ENST00000400299;protein_id=ENSP00000383155
+22	havana	CDS	31107377	31107505	.	-	0	ID=CDS:ENSP00000383155;Parent=transcript:ENST00000400299;protein_id=ENSP00000383155
+22	havana	transcript	31104926	31107528	.	-	.	ID=transcript:ENST00000465536;Parent=gene:ENSG00000198832;Name=SELENOM-205;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000465536;transcript_support_level=2;version=5
+22	havana	transcript	31105001	31107553	.	-	.	ID=transcript:ENST00000491958;Parent=gene:ENSG00000198832;Name=SELENOM-208;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000491958;transcript_support_level=2;version=5
+22	havana	lnc_RNA	31105013	31105764	.	-	.	ID=transcript:ENST00000495533;Parent=gene:ENSG00000198832;Name=SELENOM-209;biotype=retained_intron;transcript_id=ENST00000495533;transcript_support_level=2;version=1
+22	havana	transcript	31105025	31107541	.	-	.	ID=transcript:ENST00000460642;Parent=gene:ENSG00000198832;Name=SELENOM-203;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000460642;transcript_support_level=3;version=5
+22	havana	lnc_RNA	31105114	31107466	.	-	.	ID=transcript:ENST00000469262;Parent=gene:ENSG00000198832;Name=SELENOM-206;biotype=retained_intron;transcript_id=ENST00000469262;transcript_support_level=2;version=1
+22	havana	lnc_RNA	31105439	31107556	.	-	.	ID=transcript:ENST00000465447;Parent=gene:ENSG00000198832;Name=SELENOM-204;biotype=retained_intron;transcript_id=ENST00000465447;transcript_support_level=3;version=1
+22	ensembl_havana	gene	50201011	50217616	.	+	.	ID=gene:ENSG00000073169;Name=SELENOO;biotype=protein_coding;description=selenoprotein O [Source:HGNC Symbol%3BAcc:HGNC:30395];gene_id=ENSG00000073169;logic_name=ensembl_havana_gene_homo_sapiens;version=15
+22	ensembl_havana	mRNA	50201011	50217616	.	+	.	ID=transcript:ENST00000380903;Parent=gene:ENSG00000073169;Name=SELENOO-201;biotype=protein_coding;ccdsid=CCDS43034.1;tag=basic,Ensembl_canonical,MANE_Select;transcript_id=ENST00000380903;transcript_support_level=1 (assigned to previous version 6);version=7
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	ensembl_havana	CDS	50217205	50217369	.	+	0	ID=CDS:ENSP00000370288;Parent=transcript:ENST00000380903;protein_id=ENSP00000370288
+22	havana	transcript	50206442	50217616	.	+	.	ID=transcript:ENST00000492092;Parent=gene:ENSG00000073169;Name=SELENOO-202;biotype=protein_coding_CDS_not_defined;transcript_id=ENST00000492092;transcript_support_level=1;version=1
